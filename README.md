@@ -20,7 +20,9 @@ Building on a previous project using Natural Language Processing (NLP) to analyz
 - How have posts changed pre and post onset of covid-19?
 
 ### Executive Summary 
-Still working on the project:
+Still working on the project so this is more of a to-do list:
+- Make sure I've added random seed to each analysis
+- Add requirements.txt file
 - Will further investigate whether the use of a CNN on each subreddit makes the most sense 
 - Need to finish running the CNN models
 - Whether SMOTE was the optimal way to handle class imblanace 
