@@ -38,5 +38,5 @@ Still working on the project so this is more of a to-do list:
 - [Pre-pocess Data](./notebooks/step2-pre-process_text.ipynb)
 - [EDA Notebook](./notebooks/step3-EDA.ipynb)
 - [XGBoost Models](./notebooks/step4-model-xgboost-classifier.ipynb)
-- [Create Word2Vec](./notebooks/step5-word2vec.ipynb)
+- [Create Word2Vec](./notebooks/step5-word2vec.ipynb) - This note book creates a embedding_word2vec.txt file which you can also find [here](https://drive.google.com/file/d/18VNCWdM0VRIGSNNx7z_-Q7_Odg_fo6XV/view?usp=sharing) 
 - [CNN Models](./notebooks/step6-model-CNN.ipynb)
