@@ -20,8 +20,6 @@ Building on a previous project using Natural Language Processing (NLP) to analyz
 
 ### Project Repo Contents
 
-Before running the notebooks below you can find the software requirements here: [requirements file](requirements.txt) (NEED TO ADD THIS)
-
 **Main Contents:**
 - [Raw Data]: upon request - or use the code to scrape
 - [Scrape Data](step1-scrape_and_clean_data.ipynb)
