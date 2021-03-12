@@ -17,3 +17,16 @@ Building on a previous project using Natural Language Processing (NLP) to analyz
 ### Research Questions 
 - Can we identify whether a user's post belongs to a mental illness subreddit category? 
 - How have posts changed pre and post onset of covid-19?
+
+### Project Repo Contents
+
+Before running the notebooks below you can find the software requirements here: [requirements file](requirements.txt) (NEED TO ADD THIS)
+
+**Main Contents:**
+- [Raw Data]: upon request - or use the code to scrape
+- [Scrape Data](step1-scrape_and_clean_data.ipynb)
+- [Pre-pocess Data](step2-pre-process_text.ipynb)
+- [EDA Notebook](step3-EDA.ipynb)
+- [XGBoost Models](step4-model-xgboost-classifier.ipynb)
+- [Create Word2Vec](step5-word2vec.ipynb)
+- [CNN Models](step6-model-CNN.ipynb)
