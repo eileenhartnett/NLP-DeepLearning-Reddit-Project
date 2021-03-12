@@ -1,8 +1,9 @@
 # NLP, Deep Learning, & Reddit Project
 
 ### Contents:
-- [Problem Statement](#Problem-Statement)
 - [Background](#Background)
+- [Problem Statement](#Problem-Statement)
+- [Research Questions](#Research Questions)
 - [Executive Summary](#Executive-Summary)
 - [Project Repo Contents](#Project-Repo-Contents)
 - [Conclusions and Recommendations](#Conclusions-and-Recommendations)
@@ -17,6 +18,15 @@ Building on a previous project using Natural Language Processing (NLP) to analyz
 ### Research Questions 
 - Can we identify whether a user's post belongs to a mental illness subreddit category? 
 - How have posts changed pre and post onset of covid-19?
+
+### Executive Summary 
+Still working on the project:
+- Will further investigate whether the use of a CNN on each subreddit makes the most sense 
+- Need to finish running the CNN models
+- Whether SMOTE was the optimal way to handle class imblanace 
+- Will go back and tune the XGBoost model changing the max depth. 
+- Would like to continue with EDA and look at pre- and post- covid onset.
+- Will provide more background context for the project including links and references to similar research
 
 ### Project Repo Contents
 
