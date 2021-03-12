@@ -34,9 +34,9 @@ Still working on the project so this is more of a to-do list:
 
 **Main Contents:**
 - Raw Data: upon request - or use the code to scrape
-- [Scrape Data](step1-scrape_and_clean_data.ipynb)
-- [Pre-pocess Data](step2-pre-process_text.ipynb)
-- [EDA Notebook](step3-EDA.ipynb)
-- [XGBoost Models](step4-model-xgboost-classifier.ipynb)
-- [Create Word2Vec](step5-word2vec.ipynb)
-- [CNN Models](step6-model-CNN.ipynb)
+- [Scrape Data](./notebooks/step1-scrape_and_clean_data.ipynb)
+- [Pre-pocess Data](./notebooks/step2-pre-process_text.ipynb)
+- [EDA Notebook](./notebooks/step3-EDA.ipynb)
+- [XGBoost Models](./notebooks/step4-model-xgboost-classifier.ipynb)
+- [Create Word2Vec](./notebooks/step5-word2vec.ipynb)
+- [CNN Models](./notebooks/step6-model-CNN.ipynb)
