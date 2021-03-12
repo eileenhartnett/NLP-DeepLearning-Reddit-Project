@@ -24,14 +24,14 @@ Still working on the project:
 - Will further investigate whether the use of a CNN on each subreddit makes the most sense 
 - Need to finish running the CNN models
 - Whether SMOTE was the optimal way to handle class imblanace 
-- Will go back and tune the XGBoost model changing the max depth. 
-- Would like to continue with EDA and look at pre- and post- covid onset.
+- Will go back and tune the XGBoost model changing the max depth 
+- Would like to continue with EDA and look at pre- and post- covid onset
 - Will provide more background context for the project including links and references to similar research
 
 ### Project Repo Contents
 
 **Main Contents:**
-- [Raw Data]: upon request - or use the code to scrape
+- Raw Data: upon request - or use the code to scrape
 - [Scrape Data](step1-scrape_and_clean_data.ipynb)
 - [Pre-pocess Data](step2-pre-process_text.ipynb)
 - [EDA Notebook](step3-EDA.ipynb)
