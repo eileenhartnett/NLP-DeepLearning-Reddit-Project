@@ -56,6 +56,8 @@ https://towardsdatascience.com/boosting-techniques-in-python-predicting-hotel-ca
 
 https://israelg99.github.io/2017-03-23-Word2Vec-Explained/
 
+https://medium.com/plotly/understanding-word-embedding-arithmetic-why-theres-no-single-answer-to-king-man-woman-cd2760e2cb7f
+
 https://radimrehurek.com/gensim/models/word2vec.html
 
 
