@@ -6,7 +6,6 @@
 - [Research Questions](#Research-Questions)
 - [Executive Summary](#Executive-Summary)
 - [Project Repo Contents](#Project-Repo-Contents)
-- [Conclusions and Recommendations](#Conclusions-and-Recommendations)
 - [References](#References)
 
 ### Background 
