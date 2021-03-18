@@ -32,12 +32,12 @@ Future directions include:
 ### Project Repo Contents
 
 **Main Contents:**
-- Raw Data: upon request - or use the code to scrape
+- Raw Data: The files are too large to store on this git repo, you can find the files stored [here](https://drive.google.com/drive/folders/10mQxBlSw-WP42Xnz3ehMS6ilqThiXQRT?usp=sharing)
 - [Scrape Data](./notebooks/step1-scrape_and_clean_data.ipynb)
 - [Pre-pocess Data](./notebooks/step2-pre-process_text.ipynb)
 - [EDA Notebook](./notebooks/step3-EDA.ipynb)
 - [XGBoost Models](./notebooks/step4-model-xgboost-classifier.ipynb)
-- [Create Word2Vec](./notebooks/step5-word2vec.ipynb) - This notebook creates a text file which you can also find [here](https://drive.google.com/file/d/18VNCWdM0VRIGSNNx7z_-Q7_Odg_fo6XV/view?usp=sharing) 
+- [Create Word2Vec](./notebooks/step5-word2vec.ipynb) - This notebook creates a text file which should output to the repo directory
 - [CNN Models](./notebooks/step6-model-CNN.ipynb)
 
 ### References
