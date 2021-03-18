@@ -20,15 +20,14 @@ Building on a previous project using Natural Language Processing (NLP) to analyz
 - How have posts changed pre and post onset of covid-19?
 
 ### Executive Summary 
-Still working on the project so this is more of a to-do list:
-- Make sure I've added random seed to each analysis
-- Add requirements.txt file
-- Will further investigate whether the use of a CNN on each subreddit makes the most sense 
-- Need to finish running the CNN models
-- Whether SMOTE was the optimal way to handle class imblanace 
-- Will go back and tune the XGBoost model changing the max depth 
-- Would like to continue with EDA and look at pre- and post- covid onset
-- Will provide more background context for the project including links and references to similar research
+
+This project found that we can, with high accuracy, predict whether text belongs to one subreddit compared to the other 8 mental illness category subreddits. However, it is unclear whether this is the best approach to the problem. Although preliminary results are promising with the individual models, we have yet to build a multi-class model that has high prediction accuracy. 
+
+Future directions include: 
+- Continuing with the convolutional neural network models.
+- Explore differences in posts pre and post covid shutdown.
+- Tuning a model to achieve a higher accuracy score in discerning between all categories at once.
+- Learning more about text classification and convolutional neural networks. 
 
 ### Project Repo Contents
 
@@ -40,3 +39,23 @@ Still working on the project so this is more of a to-do list:
 - [XGBoost Models](./notebooks/step4-model-xgboost-classifier.ipynb)
 - [Create Word2Vec](./notebooks/step5-word2vec.ipynb) - This notebook creates a text file which you can also find [here](https://drive.google.com/file/d/18VNCWdM0VRIGSNNx7z_-Q7_Odg_fo6XV/view?usp=sharing) 
 - [CNN Models](./notebooks/step6-model-CNN.ipynb)
+
+### References
+
+Kim, J., Lee, J., Park, E., & Han, J. (2020). A deep learning model for detecting mental illness from user content on social media. Scientific Reports, 10(1), 1-6.
+
+Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). SMOTE: synthetic minority over-sampling technique. Journal of artificial intelligence research, 16, 321-357.
+
+https://news.mit.edu/2020/covid-19-impact-mental-health-1105
+
+https://realpython.com/python-keras-text-classification/
+
+https://machinelearningmastery.com/how-to-reduce-overfitting-with-dropout-regularization-in-keras/
+
+https://towardsdatascience.com/boosting-techniques-in-python-predicting-hotel-cancellations-62b7a76ffa6c
+
+https://israelg99.github.io/2017-03-23-Word2Vec-Explained/
+
+https://radimrehurek.com/gensim/models/word2vec.html
+
+
